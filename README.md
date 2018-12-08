@@ -58,8 +58,10 @@ Hint: Think about how we can detect if the button is clicked again. What can we 
 
 ## Stretch Goal
 1. Add images to associate with each goal.
+2. Create a simple goal plan with notes and images of how you plan to achieve 1 goal.
 
 Resources:
   * Arrays: https://www.w3schools.com/js/js_arrays.asp
   * Random: https://stackoverflow.com/questions/4959975/generate-random-number-between-two-numbers-in-javascript
   * Switch Statement: https://www.w3schools.com/js/js_switch.asp
+  * Events: https://www.w3schools.com/js/js_htmldom_eventlistener.asp
